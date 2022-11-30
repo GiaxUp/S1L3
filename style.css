@@ -1,0 +1,25 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+}
+
+h1 {
+  font-family: "EB Garamond", serif;
+}
+
+header {
+  text-align: center;
+}
+
+.header-text {
+  background-color: #fdfbf1;
+  border-top: solid #ffd877;
+  height: 3em;
+  color: #004d4c;
+  margin-top: 15px;
+}
+
+caption {
+}
